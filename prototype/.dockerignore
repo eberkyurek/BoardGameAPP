@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+tests/
+tools/
+data/recordings.json
+Dockerfile
+.dockerignore
+README.md

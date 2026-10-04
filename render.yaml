@@ -1,0 +1,11 @@
+# Render üzerinde tek tıkla kurulum: Render > New > Blueprint > bu depo.
+services:
+  - type: web
+    name: tahmin-oyunu
+    runtime: docker
+    plan: free
+    region: frankfurt
+    dockerfilePath: ./prototype/Dockerfile
+    dockerContext: ./prototype
+    healthCheckPath: /
+    autoDeploy: true

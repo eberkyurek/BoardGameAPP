@@ -20,6 +20,8 @@ HOST=0.0.0.0 python3 server.py
 
 Sunucu açılırken diğer cihazların kullanacağı adresi yazar.
 
+Canlıya alma adımları için depo kökündeki [README](../README.md#canlıya-alma) dosyasına bak.
+
 ## Neler var
 
 - **Hızlı maç:** Çevrim içi bekleyen biri varsa onunla, 8 saniye içinde kimse çıkmazsa önceki bir oyuncunun kaydıyla, kayıt da yoksa botla eşleşir.
@@ -44,6 +46,7 @@ Hesap, kalıcı puan, derece, liderlik tablosu, İngilizce arayüz ve yönetim e
 | `data/countries.json` | Ülke verisi |
 | `data/recordings.json` | Biten maçların kayıtları (oynadıkça oluşur) |
 | `tools/build_data.py` | Veriyi kaynaklardan yeniden üretir |
+| `Dockerfile` | Canlı ortam için kapsayıcı tanımı |
 
 ## Veri
 

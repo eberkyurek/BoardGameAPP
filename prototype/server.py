@@ -30,6 +30,9 @@ PORT = int(os.environ.get("PORT", 8000))
 MATCH_WAIT_MS = int(os.environ.get("MATCH_WAIT_MS", 8000))  # çevrim içi rakip bekleme süresi
 DISCONNECT_MS = int(os.environ.get("DISCONNECT_MS", 20000))
 MAX_RECORDINGS = 300
+MAX_PLAYERS = 2000  # açık internette belleği korumak için eşzamanlı oturum sınırı
+MAX_BODY_BYTES = 16 * 1024
+REQUEST_TIMEOUT_S = 20
 ROOM_ALPHABET = "ABCDEFGHJKLMNPRSTUVYZ23456789"
 BOT_NAMES = ["Deniz", "Elif", "Mert", "Zeynep", "Can", "Ayşe", "Emre", "Selin", "Kaan", "Defne",
              "Bora", "İpek", "Tuna", "Nehir", "Ozan", "Ece", "Barış", "Melis", "Kerem", "Duru"]
@@ -76,6 +79,8 @@ class Lobby:
     # --- eşleşme
 
     def join(self, name, mode, code, now):
+        if len(self.players) >= MAX_PLAYERS:
+            return None, "Sunucu şu an dolu. Biraz sonra tekrar dene."
         name = " ".join(str(name or "").split())[:16] or f"Misafir-{self.rng.randint(1000, 9999)}"
         token = secrets.token_urlsafe(12)
         player = {"name": name, "mode": mode, "match": None, "side": None, "code": None, "since": now, "seen": now}
@@ -173,6 +178,7 @@ class Lobby:
 
 class Handler(BaseHTTPRequestHandler):
     lobby = None
+    timeout = REQUEST_TIMEOUT_S  # yarım kalan bağlantılar iş parçacığını süresiz tutmasın
 
     def log_message(self, *args):
         pass
@@ -183,6 +189,7 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header("Content-Type", content_type)
         self.send_header("Content-Length", str(len(payload)))
         self.send_header("Cache-Control", "no-store")
+        self.send_header("X-Content-Type-Options", "nosniff")
         self.end_headers()
         self.wfile.write(payload)
 
@@ -200,7 +207,10 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         try:
-            body = json.loads(self.rfile.read(int(self.headers.get("Content-Length", 0))) or b"{}")
+            length = int(self.headers.get("Content-Length", 0))
+            if not 0 <= length <= MAX_BODY_BYTES:
+                return self._send(413, {"error": "İstek çok büyük."})
+            body = json.loads(self.rfile.read(length) or b"{}")
             if not isinstance(body, dict):
                 raise ValueError
         except ValueError:

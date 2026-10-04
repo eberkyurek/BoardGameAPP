@@ -257,6 +257,18 @@ class LobbyTests(unittest.TestCase):
             self.lobby.tick(now)
         self.assertEqual(self.lobby.recordings, [])
 
+    def test_session_limit(self):
+        import server
+        original, server.MAX_PLAYERS = server.MAX_PLAYERS, 2
+        try:
+            self.lobby.join("A", "create", None, 0)
+            self.lobby.join("B", "create", None, 0)
+            token, error = self.lobby.join("C", "create", None, 0)
+            self.assertIsNone(token)
+            self.assertIn("dolu", error)
+        finally:
+            server.MAX_PLAYERS = original
+
     def test_leaving_forfeits(self):
         a, _ = self.lobby.join("A", "quick", None, 0)
         b, _ = self.lobby.join("B", "quick", None, 0)
