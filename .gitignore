@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Oynadıkça oluşan maç kayıtları
+prototype/data/recordings.json

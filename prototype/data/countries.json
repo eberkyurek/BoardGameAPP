@@ -1,0 +1,4411 @@
+{
+ "countries": [
+  {
+   "id": "AFG",
+   "name": "Afganistan",
+   "en": "Afghanistan",
+   "aliases": [
+    "Afghanistan",
+    "af",
+    "🇦🇫",
+    "Affghanistan",
+    "Affghanisthan",
+    "Affghaunistan",
+    "Afghania",
+    "Afghanisthan",
+    "Afghaunistan",
+    "Afghaunistaun"
+   ],
+   "values": {
+    "population": 43844111,
+    "area": 652870,
+    "gdp": 17778508875.7396
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2024"
+   }
+  },
+  {
+   "id": "AGO",
+   "name": "Angola",
+   "en": "Angola",
+   "aliases": [
+    "Ngola",
+    "ao",
+    "Republic of Angola"
+   ],
+   "values": {
+    "population": 39040039,
+    "area": 1246700,
+    "gdp": 122174889423.635
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ALB",
+   "name": "Arnavutluk",
+   "en": "Albania",
+   "aliases": [
+    "Albania",
+    "Arnavutluk Cumhuriyeti",
+    "Republic of Albania",
+    "People's Republic of Albania",
+    "People's Socialist Republic of Albania",
+    "Republika Popullore e Shqiperise",
+    "Republika Popullore Socialiste e Shqiperise",
+    "Shqipërisë"
+   ],
+   "values": {
+    "population": 2349580,
+    "area": 28750,
+    "gdp": 30540188271.3421
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "AND",
+   "name": "Andorra",
+   "en": "Andorra",
+   "aliases": [
+    "Principality of Andorra",
+    "Principality of the Valleys of Andorra"
+   ],
+   "values": {
+    "population": 82904,
+    "area": 470,
+    "gdp": 4500982731.80784
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ARE",
+   "name": "Birleşik Arap Emirlikleri",
+   "en": "United Arab Emirates",
+   "aliases": [
+    "United Arab Emirates",
+    "BAE",
+    "Emirates",
+    "ae",
+    "the United Arab Emirates",
+    "the Emirates",
+    "the U.A.E.",
+    "the UAE",
+    "U.A.E."
+   ],
+   "values": {
+    "population": 11513149,
+    "area": 98647.9,
+    "gdp": 552324919095.872
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2024"
+   }
+  },
+  {
+   "id": "ARG",
+   "name": "Arjantin",
+   "en": "Argentina",
+   "aliases": [
+    "Argentina",
+    "Arjantin Cumhuriyeti",
+    "🇦🇷",
+    "Argentine Republic",
+    "Republic of Argentina",
+    "Republica Argentina"
+   ],
+   "values": {
+    "population": 45851378,
+    "area": 2780400,
+    "gdp": 683097891618.597
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ARM",
+   "name": "Ermenistan",
+   "en": "Armenia",
+   "aliases": [
+    "Armenia",
+    "Ermenistan Cumhuriyeti",
+    "Hayastan",
+    "Hayastani Hanrapetut’yun",
+    "Republic of Armenia",
+    "Հայաստան"
+   ],
+   "values": {
+    "population": 3086700,
+    "area": 29740,
+    "gdp": 29243452882.3545
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ATG",
+   "name": "Antigua ve Barbuda",
+   "en": "Antigua and Barbuda",
+   "aliases": [
+    "Antigua and Barbuda",
+    "Antigua-Barbuda",
+    "Antigua & Barbuda",
+    "Antigua–Barbuda"
+   ],
+   "values": {
+    "population": 94209,
+    "area": 440,
+    "gdp": 2338196296.2963
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "AUS",
+   "name": "Avustralya",
+   "en": "Australia",
+   "aliases": [
+    "Australia",
+    "Aussieland",
+    "New Hollandia",
+    "Stralia",
+    "The Commonwealth of Australia",
+    "'Straya",
+    "Down Under",
+    "Oz",
+    "Stria",
+    "Commonwealth of Australia",
+    "New Holland",
+    "Straya",
+    "Nova Hollandia"
+   ],
+   "values": {
+    "population": 27614411,
+    "area": 7741220,
+    "gdp": 1798518933689.21
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "AUT",
+   "name": "Avusturya",
+   "en": "Austria",
+   "aliases": [
+    "Austria",
+    "Avusturya Cumhuriyeti",
+    "Republic of Austria"
+   ],
+   "values": {
+    "population": 9208163,
+    "area": 83879,
+    "gdp": 579470021095.418
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "AZE",
+   "name": "Azerbaycan",
+   "en": "Azerbaijan",
+   "aliases": [
+    "Azerbaijan",
+    "Azerbaycan Cumhuriyeti",
+    "aze",
+    "Republic of Azerbaijan"
+   ],
+   "values": {
+    "population": 10246996,
+    "area": 86600,
+    "gdp": 75937647058.8235
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BDI",
+   "name": "Burundi",
+   "en": "Burundi",
+   "aliases": [
+    "bi",
+    "Gouvernement du Burundi",
+    "Republic of Burundi",
+    "Republika y'Uburundi"
+   ],
+   "values": {
+    "population": 14390003,
+    "area": 27830,
+    "gdp": 3364713864.08488
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BEL",
+   "name": "Belçika",
+   "en": "Belgium",
+   "aliases": [
+    "Belgium",
+    "Belçika Krallığı",
+    "Kingdom of Belgium"
+   ],
+   "values": {
+    "population": 11941781,
+    "area": 30689,
+    "gdp": 725466462859.646
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BEN",
+   "name": "Benin",
+   "en": "Benin",
+   "aliases": [
+    "Republic of Benin"
+   ],
+   "values": {
+    "population": 14814460,
+    "area": 114760,
+    "gdp": 24566420903.5337
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BFA",
+   "name": "Burkina Faso",
+   "en": "Burkina Faso",
+   "aliases": [
+    "bf",
+    "Republic of Burkina Faso",
+    "Republic of Upper Volta (-1984)"
+   ],
+   "values": {
+    "population": 24074580,
+    "area": 274200,
+    "gdp": 27627297461.3181
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BGD",
+   "name": "Bangladeş",
+   "en": "Bangladesh",
+   "aliases": [
+    "Bangladesh",
+    "bd",
+    "Bangla Desh",
+    "Country of Bengal",
+    "Land of Bengal",
+    "People's Republic of Bangladesh"
+   ],
+   "values": {
+    "population": 175686899,
+    "area": 147570,
+    "gdp": 456319229255.578
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BGR",
+   "name": "Bulgaristan",
+   "en": "Bulgaria",
+   "aliases": [
+    "Bulgaria",
+    "Bulgaristan Cumhuriyeti",
+    "Republic of Bulgaria",
+    "Bulgarian Republic"
+   ],
+   "values": {
+    "population": 6433302,
+    "area": 110996.758,
+    "gdp": 130777235529.606
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BHR",
+   "name": "Bahreyn",
+   "en": "Bahrain",
+   "aliases": [
+    "Bahrain",
+    "Bahreyn Krallığı",
+    "bh",
+    "Bahrein Islands",
+    "Dawlat al-Bahrain",
+    "ISO 3166-1:BH",
+    "Kingdom of Bahrain",
+    "Mamlakat al-Baḥrayn"
+   ],
+   "values": {
+    "population": 1600366,
+    "area": 800,
+    "gdp": 48965725531.9149
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BHS",
+   "name": "Bahamalar",
+   "en": "The Bahamas",
+   "aliases": [
+    "The Bahamas",
+    "Bahama Milletler Topluluğu",
+    "Bahama Adaları",
+    "Bahamas",
+    "bs",
+    "Bahama Islands",
+    "Commonwealth of the Bahamas",
+    "Commonwealth of The Bahamas",
+    "Bahamas, The"
+   ],
+   "values": {
+    "population": 403033,
+    "area": 13880,
+    "gdp": 15832800000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2024"
+   }
+  },
+  {
+   "id": "BIH",
+   "name": "Bosna Hersek",
+   "en": "Bosnia and Herzegovina",
+   "aliases": [
+    "Bosnia and Herzegovina",
+    "Bosna",
+    "ba",
+    "B&H",
+    "Bosnia & Herzegovina",
+    "Bosnia and Hercegovina",
+    "Bosnia-Herzegovina"
+   ],
+   "values": {
+    "population": 3140095,
+    "area": 51210,
+    "gdp": 32599982936.3931
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BLR",
+   "name": "Belarus",
+   "en": "Belarus",
+   "aliases": [
+    "Beyaz Rusya",
+    "by",
+    "White Russia",
+    "Belorussia",
+    "Bielaruś",
+    "Bielorussia",
+    "Byeloruss",
+    "Byelorussia",
+    "Republic of Belarus",
+    "Respublika Belarus'",
+    "Respublika Bielaruś",
+    "White Ruthenia"
+   ],
+   "values": {
+    "population": 9085991,
+    "area": 207629,
+    "gdp": 93397215864.198
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BLZ",
+   "name": "Belize",
+   "en": "Belize",
+   "aliases": [
+    "bz"
+   ],
+   "values": {
+    "population": 422924,
+    "area": 22966,
+    "gdp": 3326500000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BOL",
+   "name": "Bolivya",
+   "en": "Bolivia",
+   "aliases": [
+    "Bolivia",
+    "Bolivia (Plurinational State of)",
+    "Plurinational State of Bolivia",
+    "Republic of Bolivia"
+   ],
+   "values": {
+    "population": 12581843,
+    "area": 1098580,
+    "gdp": 64768947525.3256
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BRA",
+   "name": "Brezilya",
+   "en": "Brazil",
+   "aliases": [
+    "Brazil",
+    "Brezilya Federatif Cumhuriyeti",
+    "Federative Republic of Brazil"
+   ],
+   "values": {
+    "population": 212812405,
+    "area": 8510420,
+    "gdp": 2279920092492.13
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BRB",
+   "name": "Barbados",
+   "en": "Barbados",
+   "aliases": [
+    "BAR",
+    "Barbadoes",
+    "bb"
+   ],
+   "values": {
+    "population": 282623,
+    "area": 430,
+    "gdp": 8016550000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BRN",
+   "name": "Bruney",
+   "en": "Brunei",
+   "aliases": [
+    "Brunei",
+    "bn",
+    "Nation of Brunei, the Abode of Peace",
+    "Negara Brunei Darussalam"
+   ],
+   "values": {
+    "population": 466330,
+    "area": 5770,
+    "gdp": 15031980994.1121
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BTN",
+   "name": "Butan",
+   "en": "Bhutan",
+   "aliases": [
+    "Bhutan",
+    "bt",
+    "BHU",
+    "Kingdom of Bhutan"
+   ],
+   "values": {
+    "population": 796682,
+    "area": 38390,
+    "gdp": 3579320145.13077
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "BWA",
+   "name": "Botsvana",
+   "en": "Botswana",
+   "aliases": [
+    "Botswana",
+    "bw",
+    "Lefatshe la Botswana",
+    "Republic of Botswana"
+   ],
+   "values": {
+    "population": 2562122,
+    "area": 581730,
+    "gdp": 19928479839.4476
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CAF",
+   "name": "Orta Afrika Cumhuriyeti",
+   "en": "Central African Republic",
+   "aliases": [
+    "Central African Republic",
+    "Central Africa",
+    "cf"
+   ],
+   "values": {
+    "population": 5513282,
+    "area": 622980,
+    "gdp": 3066109226.40165
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CAN",
+   "name": "Kanada",
+   "en": "Canada",
+   "aliases": [
+    "Canada",
+    "CA",
+    "CAN"
+   ],
+   "values": {
+    "population": 41651653,
+    "area": 15634410,
+    "gdp": 2319899772425.92
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CHE",
+   "name": "İsviçre",
+   "en": "Switzerland",
+   "aliases": [
+    "Switzerland",
+    "İsviçre Konfederasyonu",
+    "Swiss",
+    "Confoederatio Helvetica",
+    "Swiss Confederation"
+   ],
+   "values": {
+    "population": 9092436,
+    "area": 41290.7,
+    "gdp": 1043529899250.92
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CHL",
+   "name": "Şili",
+   "en": "Chile",
+   "aliases": [
+    "Chile",
+    "Şili Cumhuriyeti",
+    "Republica de Chile",
+    "🇨🇱",
+    "CHI",
+    "Republic of Chile"
+   ],
+   "values": {
+    "population": 19859921,
+    "area": 757244.88,
+    "gdp": 357371159574.862
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CHN",
+   "name": "Çin",
+   "en": "People's Republic of China",
+   "aliases": [
+    "Çin Halk Cumhuriyeti",
+    "People's Republic of China",
+    "cn",
+    "Red China",
+    "Communist China",
+    "China PR",
+    "P.R.C.",
+    "PR China",
+    "The PRC",
+    "the People's Republic of China"
+   ],
+   "values": {
+    "population": 1406585000,
+    "area": 9562910,
+    "gdp": 19498039388042.6
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CIV",
+   "name": "Fildişi Sahili",
+   "en": "Ivory Coast",
+   "aliases": [
+    "Ivory Coast",
+    "Kotdivuar",
+    "ci",
+    "Cote d'Ivoire",
+    "Cote d'lvoire",
+    "Cote Ivoire",
+    "Cote-d'Ivoire",
+    "Côte-d'Ivoire",
+    "Republic of Cote d'Ivoire",
+    "Republic of Côte d'Ivoire",
+    "Republic of Ivory Coast",
+    "Republic of the Ivory Coast",
+    "The Ivory Coast"
+   ],
+   "values": {
+    "population": 32711547,
+    "area": 322460,
+    "gdp": 99773555666.1988
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CMR",
+   "name": "Kamerun",
+   "en": "Cameroon",
+   "aliases": [
+    "Cameroon",
+    "Republic of Cameroon"
+   ],
+   "values": {
+    "population": 29879337,
+    "area": 475440,
+    "gdp": 58933453923.761
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "COD",
+   "name": "Demokratik Kongo Cumhuriyeti",
+   "en": "Democratic Republic of the Congo",
+   "aliases": [
+    "Kongo Demokratik Cumhuriyeti",
+    "Democratic Republic of the Congo",
+    "Kongo DC",
+    "Demokratik Kongo",
+    "Kongo Kinşasa",
+    "KDC",
+    "DRC",
+    "D.R.C.",
+    "COD",
+    "cd",
+    "Congo (Kinshasa)",
+    "Dem. Rep. Congo",
+    "Dem. Republic of Congo",
+    "Dem. Republic of the Congo",
+    "Democratic Republic of Congo",
+    "DR Congo"
+   ],
+   "values": {
+    "population": 112832473,
+    "area": 2344860,
+    "gdp": 91030531316.9936
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "COG",
+   "name": "Kongo Cumhuriyeti",
+   "en": "Republic of the Congo",
+   "aliases": [
+    "Kongo",
+    "Republic of the Congo",
+    "Kongo Brazzaville",
+    "Congo-Brazzaville",
+    "Rep. Congo",
+    "Republic of Congo",
+    "Republique du Congo",
+    "République du Congo",
+    "Congo",
+    "CGO",
+    "cg",
+    "Congo (Brazzaville)",
+    "Congo Republic"
+   ],
+   "values": {
+    "population": 6484437,
+    "area": 342000,
+    "gdp": 16306633778.765
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "COL",
+   "name": "Kolombiya",
+   "en": "Colombia",
+   "aliases": [
+    "Colombia",
+    "Colombiá",
+    "Republic of Colombia",
+    "The Republic of Colombia"
+   ],
+   "values": {
+    "population": 53425635,
+    "area": 1140619.1,
+    "gdp": 457410034202.523
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "COM",
+   "name": "Komorlar",
+   "en": "Comoros",
+   "aliases": [
+    "Comoros",
+    "the Comoros",
+    "km",
+    "al-Ittiḥād al-Qumurī",
+    "Juzur al-Qamar",
+    "Juzur al-Qumur",
+    "Massiwa ya komori",
+    "ouvoimoja wakomori",
+    "Udzima wa Komori",
+    "Union des Comores",
+    "Union of the Comoros"
+   ],
+   "values": {
+    "population": 882847,
+    "area": 1861,
+    "gdp": 1814920856.27026
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CPV",
+   "name": "Cabo Verde",
+   "en": "Cape Verde",
+   "aliases": [
+    "Cape Verde",
+    "Cape Verde Islands",
+    "Republic of Cabo Verde",
+    "Republic of Cape Verde"
+   ],
+   "values": {
+    "population": 527326,
+    "area": 4030,
+    "gdp": 3056630435.32463
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CRI",
+   "name": "Kosta Rika",
+   "en": "Costa Rica",
+   "aliases": [
+    "Costa Rica",
+    "cr",
+    "Republic of Costa Rica"
+   ],
+   "values": {
+    "population": 5152950,
+    "area": 51100,
+    "gdp": 102904921157.478
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CUB",
+   "name": "Küba",
+   "en": "Cuba",
+   "aliases": [
+    "Cuba",
+    "Republic of Cuba",
+    "cu"
+   ],
+   "values": {
+    "population": 10937203,
+    "area": 109880,
+    "gdp": 107352000000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2020"
+   }
+  },
+  {
+   "id": "CYP",
+   "name": "Kıbrıs",
+   "en": "Cyprus",
+   "aliases": [
+    "Cyprus",
+    "Kıbrıs Rum Kesimi",
+    "Kıbrıs Cumhuriyeti",
+    "Güney Kıbrıs Rum Yönetimi",
+    "Güney Kıbrıs Rum Cumhuriyeti",
+    "Güney Kıbrıs",
+    "Republic of Cyprus",
+    "Greek Administration of Southern Cyprus",
+    "Greek Cypriot State"
+   ],
+   "values": {
+    "population": 1370754,
+    "area": 9250,
+    "gdp": 41225787247.3309
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "CZE",
+   "name": "Çekya",
+   "en": "Czech Republic",
+   "aliases": [
+    "Czech Republic",
+    "Çek Cumhuriyeti",
+    "Czechia",
+    "the Czech Republic"
+   ],
+   "values": {
+    "population": 10886878,
+    "area": 78871.43,
+    "gdp": 391026962800.475
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "DEU",
+   "name": "Almanya",
+   "en": "Germany",
+   "aliases": [
+    "Germany",
+    "Almanya Federal Cumhuriyeti",
+    "Federal Republic of Germany",
+    "FRG",
+    "BRD",
+    "DE",
+    "DEU"
+   ],
+   "values": {
+    "population": 83491249,
+    "area": 357680,
+    "gdp": 5050922925047.05
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "DJI",
+   "name": "Cibuti",
+   "en": "Djibouti",
+   "aliases": [
+    "Djibouti",
+    "dj",
+    "Jabuuti",
+    "Gabuuti",
+    "Jībūtī",
+    "Republic of Djibouti"
+   ],
+   "values": {
+    "population": 1184076,
+    "area": 23200,
+    "gdp": 4624533092.31886
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "DMA",
+   "name": "Dominika",
+   "en": "Dominica",
+   "aliases": [
+    "Dominica",
+    "DOM",
+    "dm",
+    "Commonwealth of Dominica",
+    "Island of Dominica",
+    "The Commonwealth of Dominica",
+    "Wai'tu kubuli",
+    "Wai‘tu kubuli"
+   ],
+   "values": {
+    "population": 65871,
+    "area": 750,
+    "gdp": 723859259.259259
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "DNK",
+   "name": "Danimarka",
+   "en": "Denmark",
+   "aliases": [
+    "Denmark",
+    "Danimarka Krallığı",
+    "Danmark",
+    "Dania",
+    "TAN",
+    "dk",
+    "Danemark",
+    "Denmark proper",
+    "metropolitan Denmark"
+   ],
+   "values": {
+    "population": 6009169,
+    "area": 42920,
+    "gdp": 462526660468.393
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "DOM",
+   "name": "Dominik Cumhuriyeti",
+   "en": "Dominican Republic",
+   "aliases": [
+    "Dominican Republic",
+    "República Dominicana",
+    "RD",
+    "Dominicana",
+    "DomRep",
+    "Republica Dominicana"
+   ],
+   "values": {
+    "population": 11520487,
+    "area": 146839.46,
+    "gdp": 127407463759.043
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "DZA",
+   "name": "Cezayir",
+   "en": "Algeria",
+   "aliases": [
+    "Algeria",
+    "Djazaïr",
+    "Dzayer",
+    "People's Democratic Republic of Algeria"
+   ],
+   "values": {
+    "population": 47435312,
+    "area": 2381740,
+    "gdp": 287031225987.736
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ECU",
+   "name": "Ekvador",
+   "en": "Ecuador",
+   "aliases": [
+    "Ecuador",
+    "Ekvador Cumhuriyeti",
+    "Republic of Ecuador",
+    "Republic of the Equator",
+    "The Ecuadorian State",
+    "Republic of Equator"
+   ],
+   "values": {
+    "population": 18289896,
+    "area": 256370,
+    "gdp": 130320560400
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "EGY",
+   "name": "Mısır",
+   "en": "Egypt",
+   "aliases": [
+    "Egypt",
+    "Misr",
+    "Republic of Egypt",
+    "Arab Rep. Egypt",
+    "Arab Republic of Egypt",
+    "Rep. Egypt"
+   ],
+   "values": {
+    "population": 118365995,
+    "area": 1001450,
+    "gdp": 365254630179.737
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ERI",
+   "name": "Eritre",
+   "en": "Eritrea",
+   "aliases": [
+    "Eritrea",
+    "er",
+    "Ertrā",
+    "Iritriyā",
+    "State of Eritrea"
+   ],
+   "values": {
+    "population": 3607003,
+    "area": 121765.8,
+    "gdp": 2065001626.01626
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2011"
+   }
+  },
+  {
+   "id": "ESP",
+   "name": "İspanya",
+   "en": "Spain",
+   "aliases": [
+    "Spain",
+    "İspanya Krallığı",
+    "Kingdom of Spain"
+   ],
+   "values": {
+    "population": 49355143,
+    "area": 505975.98,
+    "gdp": 1906453309985.88
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "EST",
+   "name": "Estonya",
+   "en": "Estonia",
+   "aliases": [
+    "Estonia",
+    "Estonya Cumhuriyeti",
+    "🇪🇪",
+    "ee",
+    "Eesti Vabariik",
+    "Republic of Estonia",
+    "Estland"
+   ],
+   "values": {
+    "population": 1366475,
+    "area": 45340,
+    "gdp": 47030833798.5866
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ETH",
+   "name": "Etiyopya",
+   "en": "Ethiopia",
+   "aliases": [
+    "Ethiopia",
+    "et",
+    "Federal Democratic Republic of Ethiopia"
+   ],
+   "values": {
+    "population": 135472051,
+    "area": 1136239.7,
+    "gdp": 126358758448.356
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "FIN",
+   "name": "Finlandiya",
+   "en": "Finland",
+   "aliases": [
+    "Finland",
+    "Finlandiya Cumhuriyeti",
+    "fi",
+    "Finnia",
+    "Land of Thousand Lakes",
+    "Republic of Finland",
+    "Republiken Finland",
+    "Suomen tasavalta"
+   ],
+   "values": {
+    "population": 5646436,
+    "area": 338480,
+    "gdp": 317039368819.607
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "FJI",
+   "name": "Fiji",
+   "en": "Fiji",
+   "aliases": [
+    "Viti",
+    "fj",
+    "Fijī",
+    "Fijī Gaṇarājya",
+    "Matanitu Tugalala o Viti",
+    "Republic of Fiji",
+    "Republic of the Fiji Islands"
+   ],
+   "values": {
+    "population": 933154,
+    "area": 18270,
+    "gdp": 6198013062.06553
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "FRA",
+   "name": "Fransa",
+   "en": "France",
+   "aliases": [
+    "France",
+    "Fransız Cumhuriyeti",
+    "Fransa Cumhuriyeti",
+    "French Republic"
+   ],
+   "values": {
+    "population": 68720337,
+    "area": 606410,
+    "gdp": 3366315927447.33
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "FSM",
+   "name": "Mikronezya",
+   "en": "Federated States of Micronesia",
+   "aliases": [
+    "Federated States of Micronesia",
+    "Micronesia",
+    "FSM",
+    "fm",
+    "Fed. Sts. Micronesia",
+    "Fed. Sts. of Micronesia",
+    "Federated States of Micronesia, FSM"
+   ],
+   "values": {
+    "population": 113683,
+    "area": 700,
+    "gdp": 501797600
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GAB",
+   "name": "Gabon",
+   "en": "Gabon",
+   "aliases": [
+    "ga",
+    "GAB",
+    "Gabonese Republic",
+    "Republique Gabonaise",
+    "République Gabonaise"
+   ],
+   "values": {
+    "population": 2593130,
+    "area": 267670,
+    "gdp": 21427119323.2764
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GBR",
+   "name": "Birleşik Krallık",
+   "en": "United Kingdom",
+   "aliases": [
+    "United Kingdom",
+    "İngiltere",
+    "Büyük Britanya",
+    "UK",
+    "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
+    "Great Britain",
+    "the United Kingdom of Great Britain and Northern Ireland",
+    "G B",
+    "Great Britain and Northern Ireland",
+    "U K",
+    "United Kingdom of Great Britain and Northern Ireland",
+    "the UK",
+    "the United Kingdom"
+   ],
+   "values": {
+    "population": 69487000,
+    "area": 243610,
+    "gdp": 4002587541846.01
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GEO",
+   "name": "Gürcistan",
+   "en": "Georgia",
+   "aliases": [
+    "Georgia",
+    "Georgia (country)",
+    "Sakartvelo",
+    "Republic of Georgia",
+    "Georgia (Sakartvelo)"
+   ],
+   "values": {
+    "population": 3935766,
+    "area": 69700,
+    "gdp": 38143612855.1367
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GHA",
+   "name": "Gana",
+   "en": "Ghana",
+   "aliases": [
+    "Ghana",
+    "Gana Cumhuriyeti"
+   ],
+   "values": {
+    "population": 35064272,
+    "area": 238539,
+    "gdp": 114209905278.717
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GIN",
+   "name": "Gine",
+   "en": "Guinea",
+   "aliases": [
+    "Guinea",
+    "gn",
+    "GUI",
+    "Guinea-Conakry",
+    "Republic of Guinea"
+   ],
+   "values": {
+    "population": 15099727,
+    "area": 245860,
+    "gdp": 28346024753.2924
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GMB",
+   "name": "Gambiya",
+   "en": "The Gambia",
+   "aliases": [
+    "The Gambia",
+    "Gambia",
+    "Islamic Republic of the Gambia",
+    "Republic of the Gambia"
+   ],
+   "values": {
+    "population": 2822093,
+    "area": 11300,
+    "gdp": 2593673987.53306
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GNB",
+   "name": "Gine-Bissau",
+   "en": "Guinea-Bissau",
+   "aliases": [
+    "Guinea-Bissau",
+    "GBS",
+    "gw",
+    "Republic of Guinea-Bissau"
+   ],
+   "values": {
+    "population": 2249515,
+    "area": 36130,
+    "gdp": 2527930272.92988
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GNQ",
+   "name": "Ekvator Ginesi",
+   "en": "Equatorial Guinea",
+   "aliases": [
+    "Equatorial Guinea",
+    "Ekvatoral Gine",
+    "GEQ",
+    "gq",
+    "Republic of Equatorial Guinea"
+   ],
+   "values": {
+    "population": 1938431,
+    "area": 28050,
+    "gdp": 12823210425.9217
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GRC",
+   "name": "Yunanistan",
+   "en": "Greece",
+   "aliases": [
+    "Greece",
+    "Yunanistan Cumhuriyeti",
+    "🇬🇷",
+    "Helen Cumhuriyeti",
+    "Hellas",
+    "el",
+    "gr",
+    "Hellenic Republic",
+    "Ellada",
+    "Greek Republic",
+    "Hellas, Greece"
+   ],
+   "values": {
+    "population": 10413962,
+    "area": 131960,
+    "gdp": 280635521324.441
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GRD",
+   "name": "Grenada",
+   "en": "Grenada",
+   "aliases": [
+    "GRN",
+    "gd"
+   ],
+   "values": {
+    "population": 117303,
+    "area": 340,
+    "gdp": 1420173228.56948
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GTM",
+   "name": "Guatemala",
+   "en": "Guatemala",
+   "aliases": [
+    "GT",
+    "GTM",
+    "gt",
+    "Republic of Guatemala"
+   ],
+   "values": {
+    "population": 18687881,
+    "area": 108890,
+    "gdp": 123306008821.471
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "GUY",
+   "name": "Guyana",
+   "en": "Guyana",
+   "aliases": [
+    "gy",
+    "Co-operative Republic of Guyana",
+    "Republic of Guyana"
+   ],
+   "values": {
+    "population": 835986,
+    "area": 214970,
+    "gdp": 27097477218.2254
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "HND",
+   "name": "Honduras",
+   "en": "Honduras",
+   "aliases": [
+    "Honduras Cumhuriyeti",
+    "HON",
+    "hn",
+    "Honduran Republic",
+    "Republic of Honduras"
+   ],
+   "values": {
+    "population": 11005850,
+    "area": 112490,
+    "gdp": 39601409103.3005
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "HRV",
+   "name": "Hırvatistan",
+   "en": "Croatia",
+   "aliases": [
+    "Croatia",
+    "HR",
+    "CRO",
+    "RH",
+    "HRV",
+    "Republic of Croatia"
+   ],
+   "values": {
+    "population": 3876200,
+    "area": 88070,
+    "gdp": 105060182186.274
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "HTI",
+   "name": "Haiti",
+   "en": "Haiti",
+   "aliases": [
+    "Hayti",
+    "ht",
+    "HAI",
+    "Ayiti",
+    "Haitian Republic",
+    "Republic of Haiti"
+   ],
+   "values": {
+    "population": 11906095,
+    "area": 27750,
+    "gdp": 32077278409.2339
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "HUN",
+   "name": "Macaristan",
+   "en": "Hungary",
+   "aliases": [
+    "Hungary"
+   ],
+   "values": {
+    "population": 9514251,
+    "area": 93030,
+    "gdp": 246490213513.054
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "IDN",
+   "name": "Endonezya",
+   "en": "Indonesia",
+   "aliases": [
+    "Indonesia",
+    "id",
+    "Republic of Indonesia"
+   ],
+   "values": {
+    "population": 285721236,
+    "area": 1916906.77,
+    "gdp": 1445642584163.81
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "IND",
+   "name": "Hindistan",
+   "en": "India",
+   "aliases": [
+    "India",
+    "Hindistan Cumhuriyeti",
+    "Bharatvarsh",
+    "Bharata",
+    "Bharat Ganarajya",
+    "Hindustan",
+    "Tianzhu",
+    "Hindoostan",
+    "Al Hind",
+    "Tenjiku",
+    "Indostan",
+    "Republic of India"
+   ],
+   "values": {
+    "population": 1463865525,
+    "area": 3287260,
+    "gdp": 3956067115771.63
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "IRL",
+   "name": "İrlanda",
+   "en": "Ireland",
+   "aliases": [
+    "Ireland",
+    "İrlanda Cumhuriyeti",
+    "Southern Ireland",
+    "Irish Republic",
+    "Republic of Ireland"
+   ],
+   "values": {
+    "population": 5484367,
+    "area": 70280,
+    "gdp": 721701359046.313
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "IRN",
+   "name": "İran",
+   "en": "Iran",
+   "aliases": [
+    "Iran",
+    "IRI",
+    "ir",
+    "Islamic Rep. Iran",
+    "Islamic Republic of Iran"
+   ],
+   "values": {
+    "population": 92417681,
+    "area": 1745150,
+    "gdp": 362682115433.364
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "IRQ",
+   "name": "Irak",
+   "en": "Iraq",
+   "aliases": [
+    "Iraq",
+    "Republic of Iraq",
+    "iq"
+   ],
+   "values": {
+    "population": 47020774,
+    "area": 435050,
+    "gdp": 254367293538.462
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ISL",
+   "name": "İzlanda",
+   "en": "Iceland",
+   "aliases": [
+    "Iceland",
+    "Ysland",
+    "Icelandic republic",
+    "Isl.",
+    "Republic of Iceland"
+   ],
+   "values": {
+    "population": 392404,
+    "area": 103000,
+    "gdp": 38582528789.0033
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ISR",
+   "name": "İsrail",
+   "en": "Israel",
+   "aliases": [
+    "Israel",
+    "Siyonist devlet",
+    "İsrail Devleti",
+    "ISR",
+    "İbrani devleti",
+    "State of Israel",
+    "il",
+    "Yisrael"
+   ],
+   "values": {
+    "population": 10122800,
+    "area": 22070,
+    "gdp": 610777842873.595
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ITA",
+   "name": "İtalya",
+   "en": "Italy",
+   "aliases": [
+    "Italy",
+    "İtalyan Cumhuriyeti",
+    "İtalya Cumhuriyeti",
+    "Italian Republic",
+    "Republic of Italy"
+   ],
+   "values": {
+    "population": 58915656,
+    "area": 302070,
+    "gdp": 2551556954100.35
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "JAM",
+   "name": "Jamaika",
+   "en": "Jamaica",
+   "aliases": [
+    "Jamaica",
+    "JA",
+    "Commonwealth of Jamaica"
+   ],
+   "values": {
+    "population": 2837077,
+    "area": 10990,
+    "gdp": 22704903217.5631
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "JOR",
+   "name": "Ürdün",
+   "en": "Jordan",
+   "aliases": [
+    "Jordan",
+    "Hashemite Kingdom of Jordan",
+    "ISO 3166-1:JO",
+    "Kingdom of Jordan",
+    "State of Jordan",
+    "HKJ",
+    "Yarden",
+    "Giordania"
+   ],
+   "values": {
+    "population": 11520684,
+    "area": 89318,
+    "gdp": 61610052535.2113
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "JPN",
+   "name": "Japonya",
+   "en": "Japan",
+   "aliases": [
+    "Japan",
+    "Japonya Devleti",
+    "Doğan Güneşin Ülkesi",
+    "Land of the Rising Sun",
+    "Iapan",
+    "Iapon",
+    "Land of Rising Sun",
+    "Nihon-koku",
+    "Nippon-koku",
+    "State of Japan"
+   ],
+   "values": {
+    "population": 123366734,
+    "area": 377969.27,
+    "gdp": 4435162999976.94
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KAZ",
+   "name": "Kazakistan",
+   "en": "Kazakhstan",
+   "aliases": [
+    "Kazakhstan",
+    "kz",
+    "Qazaqstan",
+    "Republic of Kazakhstan",
+    "Republic of Qazaqstan"
+   ],
+   "values": {
+    "population": 20843754,
+    "area": 2724902,
+    "gdp": 306239209650.024
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KEN",
+   "name": "Kenya",
+   "en": "Kenya",
+   "aliases": [
+    "ke",
+    "Republic of Kenya"
+   ],
+   "values": {
+    "population": 57532493,
+    "area": 591969,
+    "gdp": 135941278878.815
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KGZ",
+   "name": "Kırgızistan",
+   "en": "Kyrgyzstan",
+   "aliases": [
+    "Kyrgyzstan",
+    "kg",
+    "Kyrgyz Republic"
+   ],
+   "values": {
+    "population": 7343064,
+    "area": 199950,
+    "gdp": 22623752095.4613
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KHM",
+   "name": "Kamboçya",
+   "en": "Cambodia",
+   "aliases": [
+    "Cambodia",
+    "Kamboja",
+    "Kingdom of Cambodia",
+    "kh",
+    "Camboya",
+    "Campuchia",
+    "Kambodzha",
+    "Kampuchea"
+   ],
+   "values": {
+    "population": 17847982,
+    "area": 181040,
+    "gdp": 51267065842.9641
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KIR",
+   "name": "Kiribati",
+   "en": "Kiribati",
+   "aliases": [
+    "ki",
+    "Republic of Kiribati"
+   ],
+   "values": {
+    "population": 136488,
+    "area": 810,
+    "gdp": 349227254.158833
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KNA",
+   "name": "Saint Kitts ve Nevis",
+   "en": "Saint Kitts and Nevis",
+   "aliases": [
+    "Saint Kitts and Nevis",
+    "Federation of Saint Christopher and Nevis",
+    "Federation of Saint Kitts and Nevis",
+    "Kitts & Nevis",
+    "Kitts and Nevis",
+    "Saint Christopher and Nevis",
+    "St Kitts & Nevis",
+    "St Kitts and Nevis",
+    "St. Kitts & Nevis",
+    "St. Kitts and Nevis"
+   ],
+   "values": {
+    "population": 46922,
+    "area": 260,
+    "gdp": 1183514814.81481
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KOR",
+   "name": "Güney Kore",
+   "en": "South Korea",
+   "aliases": [
+    "South Korea",
+    "Kore Cumhuriyeti",
+    "G. Kore",
+    "Republic of Korea",
+    "Silla",
+    "Choson",
+    "Korea (South)",
+    "Hanguk",
+    "Daehan Minguk",
+    "Daehanminguk",
+    "Korea Republic",
+    "Rep. Korea",
+    "S. Korea"
+   ],
+   "values": {
+    "population": 51684564,
+    "area": 100450,
+    "gdp": 1872374961553.15
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "KWT",
+   "name": "Kuveyt",
+   "en": "Kuwait",
+   "aliases": [
+    "Kuwait",
+    "kw",
+    "State of Kuwait"
+   ],
+   "values": {
+    "population": 4865298,
+    "area": 17820,
+    "gdp": 157209026926.418
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LAO",
+   "name": "Laos",
+   "en": "Laos",
+   "aliases": [
+    "la",
+    "Lao PDR",
+    "Lao People's Democratic Republic"
+   ],
+   "values": {
+    "population": 7873046,
+    "area": 236800,
+    "gdp": 18302970218.5902
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LBN",
+   "name": "Lübnan",
+   "en": "Lebanon",
+   "aliases": [
+    "Lebanon",
+    "Lübnan Cumhuriyeti",
+    "lb",
+    "Lebanese Republic",
+    "Lubnan",
+    "Republic of Lebanon",
+    "State of Lebanon"
+   ],
+   "values": {
+    "population": 5849421,
+    "area": 10450,
+    "gdp": 25971643441.3408
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2024"
+   }
+  },
+  {
+   "id": "LBR",
+   "name": "Liberya",
+   "en": "Liberia",
+   "aliases": [
+    "Liberia",
+    "Liber",
+    "lr",
+    "Republic of Liberia"
+   ],
+   "values": {
+    "population": 5731206,
+    "area": 111370,
+    "gdp": 5245938900
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LBY",
+   "name": "Libya",
+   "en": "Libya",
+   "aliases": [
+    "ly",
+    "LBA",
+    "State of Libya"
+   ],
+   "values": {
+    "population": 7458555,
+    "area": 1759540,
+    "gdp": 48098909613.6316
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LCA",
+   "name": "Saint Lucia",
+   "en": "Saint Lucia",
+   "aliases": [
+    "St Lucia",
+    "St. Lucia",
+    "lca",
+    "Hewanorra",
+    "Iyonola",
+    "lc"
+   ],
+   "values": {
+    "population": 180149,
+    "area": 620,
+    "gdp": 2656444444.44444
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LIE",
+   "name": "Lihtenştayn",
+   "en": "Liechtenstein",
+   "aliases": [
+    "Liechtenstein",
+    "Lihtenştayn Prensliği",
+    "li",
+    "FL",
+    "Principality of Liechtenstein"
+   ],
+   "values": {
+    "population": 41024,
+    "area": 160,
+    "gdp": 8905764270.4054
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2024"
+   }
+  },
+  {
+   "id": "LKA",
+   "name": "Sri Lanka",
+   "en": "Sri Lanka",
+   "aliases": [
+    "SRI",
+    "Ceylan",
+    "ce",
+    "Serendib",
+    "Taprobane",
+    "sri",
+    "Srilanka",
+    "Democratic Socialist Republic of Sri Lanka",
+    "Lanka, Sri",
+    "lk",
+    "lke"
+   ],
+   "values": {
+    "population": 21756000,
+    "area": 65610,
+    "gdp": 108825231671.196
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LSO",
+   "name": "Lesotho",
+   "en": "Lesotho",
+   "aliases": [
+    "Lesotho Krallığı",
+    "ls",
+    "Kingdom of Lesotho",
+    "LES",
+    "The Mountain Kingdom"
+   ],
+   "values": {
+    "population": 2363325,
+    "area": 30360,
+    "gdp": 2573572920.05159
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LTU",
+   "name": "Litvanya",
+   "en": "Lithuania",
+   "aliases": [
+    "Lithuania",
+    "Litvanya Cumhuriyeti",
+    "Republic of Lithuania"
+   ],
+   "values": {
+    "population": 2888774,
+    "area": 65290,
+    "gdp": 95210150818.3512
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LUX",
+   "name": "Lüksemburg",
+   "en": "Luxembourg",
+   "aliases": [
+    "Luxembourg",
+    "Lüksemburg Büyük Dükalığı",
+    "Grand Duchy of Luxembourg"
+   ],
+   "values": {
+    "population": 686970,
+    "area": 2590,
+    "gdp": 101157829491.107
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "LVA",
+   "name": "Letonya",
+   "en": "Latvia",
+   "aliases": [
+    "Latvia",
+    "lv",
+    "Latveja",
+    "Latvejas Republika",
+    "Latvian Republic",
+    "Latvija",
+    "Latvijas Republika",
+    "Leţmо̄",
+    "Leţmо̄ Vabāmо̄",
+    "Republic of Latvia"
+   ],
+   "values": {
+    "population": 1847785,
+    "area": 64590,
+    "gdp": 48618869160.3254
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MAR",
+   "name": "Fas",
+   "en": "Morocco",
+   "aliases": [
+    "Morocco",
+    "Fas Krallığı",
+    "al-Maġrib",
+    "Kingdom of Morocco",
+    "Lmaġrib",
+    "Maroc",
+    "Marocco"
+   ],
+   "values": {
+    "population": 38430770,
+    "area": 446550,
+    "gdp": 182374250612.28
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MCO",
+   "name": "Monako",
+   "en": "Monaco",
+   "aliases": [
+    "Monaco",
+    "Monako Prensliği",
+    "mc",
+    "Fort-Hercule",
+    "Mùnegu",
+    "Principality and Diocese of Monaco",
+    "Principality of Monaco",
+    "Principato di Monaco",
+    "Principatu de Mu̍negu",
+    "Prinçipatu de Mùnegu",
+    "Principauté de Monaco"
+   ],
+   "values": {
+    "population": 38341,
+    "area": 74.9,
+    "gdp": 11125788838.2812
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2024"
+   }
+  },
+  {
+   "id": "MDA",
+   "name": "Moldova",
+   "en": "Moldova",
+   "aliases": [
+    "Moldavia",
+    "Republic of Moldova",
+    "Republica Moldova"
+   ],
+   "values": {
+    "population": 2360527,
+    "area": 33850,
+    "gdp": 20351796275.2943
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MDG",
+   "name": "Madagaskar",
+   "en": "Madagascar",
+   "aliases": [
+    "Madagascar",
+    "Malagascar",
+    "Malagaskar",
+    "mg",
+    "Republic of Madagascar"
+   ],
+   "values": {
+    "population": 32740678,
+    "area": 587295,
+    "gdp": 19620352035.7899
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MDV",
+   "name": "Maldivler",
+   "en": "Maldives",
+   "aliases": [
+    "Maldives",
+    "MDV",
+    "mv",
+    "Republic of Maldives"
+   ],
+   "values": {
+    "population": 529676,
+    "area": 300,
+    "gdp": 7741066860.6337
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MEX",
+   "name": "Meksika",
+   "en": "Mexico",
+   "aliases": [
+    "Mexico",
+    "Meksika Birleşik Devletleri",
+    "Birleşik Meksika Devletleri",
+    "United States of Mexico",
+    "United Mexican States",
+    "mx",
+    "MXN",
+    "Mexican Republic",
+    "Mexican United States",
+    "US of M"
+   ],
+   "values": {
+    "population": 131946900,
+    "area": 1957193.9,
+    "gdp": 1832641364775.52
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MHL",
+   "name": "Marshall Adaları",
+   "en": "Marshall Islands",
+   "aliases": [
+    "Marshall Islands",
+    "Marşal Adaları",
+    "mh",
+    "Republic of the Marshall Islands"
+   ],
+   "values": {
+    "population": 36282,
+    "area": 180,
+    "gdp": 308000000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MKD",
+   "name": "Kuzey Makedonya",
+   "en": "North Macedonia",
+   "aliases": [
+    "North Macedonia",
+    "Makedonya",
+    "Makedonya Cumhuriyeti",
+    "Kuzey Makedonya Cumhuriyeti",
+    "Former Yugoslav Republic of Macedonia",
+    "FYR Macedonia",
+    "Republic of Macedonia",
+    "Republic of North Macedonia",
+    "Macedonia",
+    "NM",
+    "MK",
+    "Makedonia",
+    "MKD"
+   ],
+   "values": {
+    "population": 1820909,
+    "area": 25710,
+    "gdp": 19101199817.0174
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MLI",
+   "name": "Mali",
+   "en": "Mali",
+   "aliases": [
+    "ml",
+    "Republic of Mali"
+   ],
+   "values": {
+    "population": 25198821,
+    "area": 1240190,
+    "gdp": 30069148580.7688
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MLT",
+   "name": "Malta",
+   "en": "Malta",
+   "aliases": [
+    "Republic of Malta"
+   ],
+   "values": {
+    "population": 579704,
+    "area": 320,
+    "gdp": 27771821560.9411
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MMR",
+   "name": "Myanmar",
+   "en": "Myanmar",
+   "aliases": [
+    "Burma",
+    "Union of Burma",
+    "Republic of the Union of Myanmar"
+   ],
+   "values": {
+    "population": 54850648,
+    "area": 676590,
+    "gdp": 81665773809.5238
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MNE",
+   "name": "Karadağ",
+   "en": "Montenegro",
+   "aliases": [
+    "Montenegro",
+    "Çernogorya",
+    "ME",
+    "Republic of Montenegro"
+   ],
+   "values": {
+    "population": 623129,
+    "area": 13888,
+    "gdp": 9232801464.79257
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MNG",
+   "name": "Moğolistan",
+   "en": "Mongolia",
+   "aliases": [
+    "Mongolia",
+    "Mongol State",
+    "State of Mongolia"
+   ],
+   "values": {
+    "population": 3568978,
+    "area": 1564115.75,
+    "gdp": 25369107325.4549
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MOZ",
+   "name": "Mozambik",
+   "en": "Mozambique",
+   "aliases": [
+    "Mozambique",
+    "Moçambique",
+    "mz",
+    "Republic of Mozambique",
+    "República de Moçambique"
+   ],
+   "values": {
+    "population": 35631653,
+    "area": 799380,
+    "gdp": 22337997046.1913
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MRT",
+   "name": "Moritanya",
+   "en": "Mauritania",
+   "aliases": [
+    "Mauritania",
+    "Agawej",
+    "Gannaar",
+    "Gànnaar",
+    "Islamic Republic of Mauritania",
+    "Mauretania",
+    "Moritani",
+    "mr",
+    "Muritanya",
+    "Murutaane"
+   ],
+   "values": {
+    "population": 5315065,
+    "area": 1030700,
+    "gdp": 11679910946.4371
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MUS",
+   "name": "Mauritius",
+   "en": "Mauritius",
+   "aliases": [
+    "Maurice",
+    "MRI",
+    "MU",
+    "Moris",
+    "Republic of Mauritius"
+   ],
+   "values": {
+    "population": 1243741,
+    "area": 2010,
+    "gdp": 16157804491.7614
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MWI",
+   "name": "Malavi",
+   "en": "Malawi",
+   "aliases": [
+    "Malawi",
+    "MAW",
+    "mw",
+    "Republic of Malawi"
+   ],
+   "values": {
+    "population": 22216120,
+    "area": 118480,
+    "gdp": 14918276698.303
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "MYS",
+   "name": "Malezya",
+   "en": "Malaysia",
+   "aliases": [
+    "Malaysia",
+    "Malezya Federasyonu",
+    "Federation of Malaysia",
+    "Malaysia Federation"
+   ],
+   "values": {
+    "population": 35977838,
+    "area": 330411,
+    "gdp": 472193128644.597
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NAM",
+   "name": "Namibya",
+   "en": "Namibia",
+   "aliases": [
+    "Namibia",
+    "na",
+    "Republic of Namibia"
+   ],
+   "values": {
+    "population": 3092816,
+    "area": 824290,
+    "gdp": 15080340653.5276
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NER",
+   "name": "Nijer",
+   "en": "Niger",
+   "aliases": [
+    "Niger",
+    "ne",
+    "Republic Niger",
+    "Republic of Niger",
+    "Republic of the Niger",
+    "The Niger"
+   ],
+   "values": {
+    "population": 27917831,
+    "area": 1267000,
+    "gdp": 21646191388.2507
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NGA",
+   "name": "Nijerya",
+   "en": "Nigeria",
+   "aliases": [
+    "Nigeria",
+    "Federal Republic of Nigeria",
+    "Naija"
+   ],
+   "values": {
+    "population": 237527782,
+    "area": 923770,
+    "gdp": 290794361542.112
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NIC",
+   "name": "Nikaragua",
+   "en": "Nicaragua",
+   "aliases": [
+    "Nicaragua",
+    "Nikaragua Cumhuriyeti",
+    "NCA",
+    "NI",
+    "NIC",
+    "ni",
+    "Republic of Nicaragua"
+   ],
+   "values": {
+    "population": 7007502,
+    "area": 130370,
+    "gdp": 22237167113.0916
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NLD",
+   "name": "Hollanda",
+   "en": "Kingdom of the Netherlands",
+   "aliases": [
+    "Hollanda Krallığı",
+    "Kingdom of the Netherlands",
+    "Kingdom of Netherlands",
+    "Netherlands",
+    "the Netherlands",
+    "Nederlanden"
+   ],
+   "values": {
+    "population": 18087633,
+    "area": 41540,
+    "gdp": 1332767651100.39
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NOR",
+   "name": "Norveç",
+   "en": "Norway",
+   "aliases": [
+    "Norway",
+    "Norveç Krallığı",
+    "Kingdom of Norway"
+   ],
+   "values": {
+    "population": 5610870,
+    "area": 624500,
+    "gdp": 530755719438.879
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NPL",
+   "name": "Nepal",
+   "en": "Nepal",
+   "aliases": [
+    "Palpa",
+    "Balbo",
+    "Nekbal",
+    "Bal-bo",
+    "Bal-po'i yul",
+    "Bal-yul",
+    "Balpo",
+    "Balpo-yul",
+    "Federal Democratic Republic of Nepal",
+    "Naipál",
+    "Naipala",
+    "Naipála",
+    "Ne-pel",
+    "Necbal",
+    "Nehpal",
+    "Nei-pal",
+    "Nekpal",
+    "Népaal",
+    "Nepál",
+    "Népál",
+    "Nepall",
+    "Nepaul",
+    "Nercerri",
+    "Ni-po-lo",
+    "Ni-po-louo",
+    "Niepal",
+    "Nipal",
+    "Pa-eul-pou",
+    "Pa-le-pou",
+    "Pa-lo-pou",
+    "Pai-pou",
+    "Paï-pou",
+    "Palpou"
+   ],
+   "values": {
+    "population": 29618118,
+    "area": 147180,
+    "gdp": 45489810283.1132
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NRU",
+   "name": "Nauru",
+   "en": "Nauru",
+   "aliases": [
+    "Pleasant Island",
+    "Naoero",
+    "Republic of Nauru",
+    "Republic of Naoero"
+   ],
+   "values": {
+    "population": 12025,
+    "area": 20,
+    "gdp": 176040043.932346
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "NZL",
+   "name": "Yeni Zelanda",
+   "en": "New Zealand",
+   "aliases": [
+    "New Zealand",
+    "nz",
+    "Dominion of New Zealand",
+    "Aotearoa New Zealand"
+   ],
+   "values": {
+    "population": 5324700,
+    "area": 267710,
+    "gdp": 264057413739.965
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "OMN",
+   "name": "Umman",
+   "en": "Oman",
+   "aliases": [
+    "Oman",
+    "Uman",
+    "om",
+    "omn",
+    "Sultanate of Oman"
+   ],
+   "values": {
+    "population": 5494691,
+    "area": 309500,
+    "gdp": 109604780696.23
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PAK",
+   "name": "Pakistan",
+   "en": "Pakistan",
+   "aliases": [
+    "pk",
+    "Islamic Republic of Pakistan",
+    "Republic of Pakistan",
+    "Hồi Quốc",
+    "Tây Hồi"
+   ],
+   "values": {
+    "population": 255219554,
+    "area": 796100,
+    "gdp": 407307214476.222
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PAN",
+   "name": "Panama",
+   "en": "Panama",
+   "aliases": [
+    "Panama Cumhuriyeti",
+    "pa",
+    "Republic of Panama"
+   ],
+   "values": {
+    "population": 4571189,
+    "area": 75320,
+    "gdp": 90462600000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PER",
+   "name": "Peru",
+   "en": "Peru",
+   "aliases": [
+    "Peru Cumhuriyeti",
+    "per",
+    "pe",
+    "Republic of Peru",
+    "Republica del Peru"
+   ],
+   "values": {
+    "population": 34576665,
+    "area": 1285215.6,
+    "gdp": 334854659181.893
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PHL",
+   "name": "Filipinler",
+   "en": "Philippines",
+   "aliases": [
+    "Philippines",
+    "RP",
+    "Republic of the Philippines",
+    "Philippine Islands",
+    "The Philippines"
+   ],
+   "values": {
+    "population": 116786962,
+    "area": 300000,
+    "gdp": 487086123720.417
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PLW",
+   "name": "Palau",
+   "en": "Palau",
+   "aliases": [
+    "Belau",
+    "pw",
+    "Pellew",
+    "Peeloo",
+    "Pelew",
+    "Pelew islands",
+    "Republic of Belau",
+    "Republic of Palau"
+   ],
+   "values": {
+    "population": 17663,
+    "area": 460,
+    "gdp": 345000000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PNG",
+   "name": "Papua Yeni Gine",
+   "en": "Papua New Guinea",
+   "aliases": [
+    "Papua New Guinea",
+    "Independent State of Papua New Guinea"
+   ],
+   "values": {
+    "population": 10762817,
+    "area": 462840,
+    "gdp": 32498658653.8415
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "POL",
+   "name": "Polonya",
+   "en": "Poland",
+   "aliases": [
+    "Poland",
+    "Polonya Cumhuriyeti",
+    "Republic of Poland"
+   ],
+   "values": {
+    "population": 36435861,
+    "area": 313930,
+    "gdp": 1035491784197.44
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PRK",
+   "name": "Kuzey Kore",
+   "en": "North Korea",
+   "aliases": [
+    "North Korea",
+    "🇰🇵",
+    "Kore Demokratik Halk Cumhuriyeti",
+    "DPR Korea",
+    "kp",
+    "Democratic People's Republic of Korea",
+    "DPRK",
+    "N. Korea"
+   ],
+   "values": {
+    "population": 26571036,
+    "area": 120540
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023"
+   }
+  },
+  {
+   "id": "PRT",
+   "name": "Portekiz",
+   "en": "Portugal",
+   "aliases": [
+    "Portugal",
+    "Portekiz Cumhuriyeti",
+    "POR",
+    "Portuguese Republic"
+   ],
+   "values": {
+    "population": 10804871,
+    "area": 92230,
+    "gdp": 346639825141.821
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PRY",
+   "name": "Paraguay",
+   "en": "Paraguay",
+   "aliases": [
+    "Heart of South America",
+    "Republic of Paraguay"
+   ],
+   "values": {
+    "population": 7013078,
+    "area": 406752,
+    "gdp": 49278227554.3339
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "PSE",
+   "name": "Filistin",
+   "en": "Palestine",
+   "aliases": [
+    "Palestine",
+    "Filistin Devleti",
+    "State of Palestine",
+    "PSE"
+   ],
+   "values": {
+    "population": 5413596,
+    "area": 6025,
+    "gdp": 17167100000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "QAT",
+   "name": "Katar",
+   "en": "Qatar",
+   "aliases": [
+    "Qatar",
+    "qat",
+    "qa",
+    "State of Qatar"
+   ],
+   "values": {
+    "population": 2972215,
+    "area": 11490,
+    "gdp": 215559615384.615
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ROU",
+   "name": "Romanya",
+   "en": "Romania",
+   "aliases": [
+    "Romania",
+    "Roumania",
+    "Rumania"
+   ],
+   "values": {
+    "population": 19020271,
+    "area": 238400,
+    "gdp": 428677977854.826
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "RUS",
+   "name": "Rusya",
+   "en": "Russia",
+   "aliases": [
+    "Russia",
+    "Rusya Federasyonu",
+    "Russian Federation"
+   ],
+   "values": {
+    "population": 143513328,
+    "area": 17125190,
+    "gdp": 2561310169358.74
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "RWA",
+   "name": "Ruanda",
+   "en": "Rwanda",
+   "aliases": [
+    "Rwanda",
+    "Republic of Rwanda",
+    "The Land of a Thousand Hills"
+   ],
+   "values": {
+    "population": 14569341,
+    "area": 26338,
+    "gdp": 16372132990.2271
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SAU",
+   "name": "Suudi Arabistan",
+   "en": "Saudi Arabia",
+   "aliases": [
+    "Saudi Arabia",
+    "Arabistan",
+    "Suudistan",
+    "Suudi Arabistan Krallığı",
+    "Kingdom of Saudi Arabia",
+    "Saudi"
+   ],
+   "values": {
+    "population": 36973555,
+    "area": 2149690,
+    "gdp": 1276942933333.33
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SDN",
+   "name": "Sudan",
+   "en": "Sudan",
+   "aliases": [
+    "al-Sudan",
+    "as-Sudan",
+    "as-Sūdān",
+    "North Sudan",
+    "Republic of Sudan",
+    "Republic of the Sudan",
+    "sd",
+    "Soudan",
+    "SUD",
+    "the Sudan"
+   ],
+   "values": {
+    "population": 51662147,
+    "area": 1878000,
+    "gdp": 60162634574.4689
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SEN",
+   "name": "Senegal",
+   "en": "Senegal",
+   "aliases": [
+    "Republic of Senegal"
+   ],
+   "values": {
+    "population": 18931966,
+    "area": 196710,
+    "gdp": 37006536238.3731
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SGP",
+   "name": "Singapur",
+   "en": "Singapore",
+   "aliases": [
+    "Singapore",
+    "Garden City",
+    "sg",
+    "Lion City",
+    "Singapore City",
+    "Republic of Singapore",
+    "S'pore"
+   ],
+   "values": {
+    "population": 6111175,
+    "area": 728,
+    "gdp": 603869516998.738
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SLB",
+   "name": "Solomon Adaları",
+   "en": "Solomon Islands",
+   "aliases": [
+    "Solomon Islands",
+    "the Solomon Islands",
+    "SOL",
+    "sb"
+   ],
+   "values": {
+    "population": 838645,
+    "area": 28900,
+    "gdp": 1749572442.95016
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SLE",
+   "name": "Sierra Leone",
+   "en": "Sierra Leone",
+   "aliases": [
+    "Republic of Sierra Leone",
+    "sl",
+    "SLE"
+   ],
+   "values": {
+    "population": 8819794,
+    "area": 72300,
+    "gdp": 7464157904.43509
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SLV",
+   "name": "El Salvador",
+   "en": "El Salvador",
+   "aliases": [
+    "Salvador",
+    "ESA",
+    "sv",
+    "Republic of El Salvador"
+   ],
+   "values": {
+    "population": 6365503,
+    "area": 21040,
+    "gdp": 36708110000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SMR",
+   "name": "San Marino",
+   "en": "San Marino",
+   "aliases": [
+    "sm",
+    "Most Serene Republic of San Marino"
+   ],
+   "values": {
+    "population": 34109,
+    "area": 60,
+    "gdp": 2027243193.5116
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2023"
+   }
+  },
+  {
+   "id": "SOM",
+   "name": "Somali",
+   "en": "Somalia",
+   "aliases": [
+    "Somalia",
+    "Federal Republic of Somalia"
+   ],
+   "values": {
+    "population": 19654739,
+    "area": 637660,
+    "gdp": 12995200000.2658
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SRB",
+   "name": "Sırbistan",
+   "en": "Serbia",
+   "aliases": [
+    "Serbia",
+    "RS",
+    "Republic of Serbia"
+   ],
+   "values": {
+    "population": 6549143,
+    "area": 84990,
+    "gdp": 99953324472.9042
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SSD",
+   "name": "Güney Sudan",
+   "en": "South Sudan",
+   "aliases": [
+    "South Sudan",
+    "ss",
+    "SSD",
+    "Southern Sudan",
+    "Republic of South Sudan"
+   ],
+   "values": {
+    "population": 12188788,
+    "area": 646883,
+    "gdp": 11997800760.2242
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2015"
+   }
+  },
+  {
+   "id": "STP",
+   "name": "São Tomé ve Príncipe",
+   "en": "São Tomé and Príncipe",
+   "aliases": [
+    "São Tomé and Príncipe",
+    "Democratic Republic of São Tomé and Príncipe",
+    "Sao Tome & Principe",
+    "São Tomé og Príncipe",
+    "st",
+    "Sao Tome and Principe"
+   ],
+   "values": {
+    "population": 240254,
+    "area": 960,
+    "gdp": 981293586.906408
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SUR",
+   "name": "Surinam",
+   "en": "Suriname",
+   "aliases": [
+    "Suriname",
+    "sr",
+    "Dutch Guiana",
+    "Republic of Surinam",
+    "Republic of Suriname",
+    "Surrinam"
+   ],
+   "values": {
+    "population": 639850,
+    "area": 163820,
+    "gdp": 4523657796.86421
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SVK",
+   "name": "Slovakya",
+   "en": "Slovakia",
+   "aliases": [
+    "Slovakia",
+    "SVK",
+    "SK",
+    "Slovak Republic"
+   ],
+   "values": {
+    "population": 5413813,
+    "area": 49030,
+    "gdp": 154530066506.895
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SVN",
+   "name": "Slovenya",
+   "en": "Slovenia",
+   "aliases": [
+    "Slovenia",
+    "si",
+    "svn",
+    "Slovenija",
+    "Republic of Slovenia",
+    "slo"
+   ],
+   "values": {
+    "population": 2130986,
+    "area": 20480,
+    "gdp": 79648204979.3618
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SWE",
+   "name": "İsveç",
+   "en": "Sweden",
+   "aliases": [
+    "Sweden",
+    "Sverige",
+    "Konungariket Sverige",
+    "İsveç Krallığı",
+    "Kingdom of Sweden",
+    "se",
+    "Swedish Kingdom"
+   ],
+   "values": {
+    "population": 10596620,
+    "area": 528660,
+    "gdp": 668998664082.081
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SWZ",
+   "name": "Esvatini",
+   "en": "Eswatini",
+   "aliases": [
+    "Eswatini",
+    "Svaziland",
+    "Swaziland",
+    "eSwatini",
+    "Kingdom of Eswatini",
+    "Kingdom of Swaziland",
+    "sz",
+    "Umbuso weSwatini"
+   ],
+   "values": {
+    "population": 1256174,
+    "area": 17360,
+    "gdp": 5160679612.81734
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SYC",
+   "name": "Seyşeller",
+   "en": "Seychelles",
+   "aliases": [
+    "Seychelles",
+    "Seyşeller Cumhuriyeti",
+    "Republic of Seychelles",
+    "sc",
+    "SEY"
+   ],
+   "values": {
+    "population": 122730,
+    "area": 460,
+    "gdp": 2387022853.48583
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "SYR",
+   "name": "Suriye",
+   "en": "Syria",
+   "aliases": [
+    "Syria",
+    "Suriye Arap Cumhuriyeti",
+    "Sūriyā",
+    "Syrian Arab Republic"
+   ],
+   "values": {
+    "population": 25620427,
+    "area": 185180,
+    "gdp": 23737634644.3994
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2022"
+   }
+  },
+  {
+   "id": "TCD",
+   "name": "Çad",
+   "en": "Chad",
+   "aliases": [
+    "Chad",
+    "Çad Cumhuriyeti",
+    "GUM",
+    "CHA",
+    "td",
+    "Republic of Chad"
+   ],
+   "values": {
+    "population": 21003705,
+    "area": 1284000,
+    "gdp": 21472835225.4338
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TGO",
+   "name": "Togo",
+   "en": "Togo",
+   "aliases": [
+    "tg",
+    "Togolese Republic"
+   ],
+   "values": {
+    "population": 8591626,
+    "area": 56790,
+    "gdp": 11889949067.4697
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "THA",
+   "name": "Tayland",
+   "en": "Thailand",
+   "aliases": [
+    "Thailand",
+    "th",
+    "Thai",
+    "Kingdom of Siam",
+    "Kingdom of Thailand",
+    "The Kingdom of Siam",
+    "The Kingdom of Thailand",
+    "Prathet Thai",
+    "Ratcha-anachak Thai"
+   ],
+   "values": {
+    "population": 71619863,
+    "area": 513115.021,
+    "gdp": 577009981112.015
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TJK",
+   "name": "Tacikistan",
+   "en": "Tajikistan",
+   "aliases": [
+    "Tajikistan",
+    "Republic of Tajikistan",
+    "tj"
+   ],
+   "values": {
+    "population": 10786734,
+    "area": 141379,
+    "gdp": 17660626562.4832
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TKM",
+   "name": "Türkmenistan",
+   "en": "Turkmenistan",
+   "aliases": [
+    "Turkmenistan",
+    "TKM",
+    "tm",
+    "Turkmenia"
+   ],
+   "values": {
+    "population": 7618847,
+    "area": 491209,
+    "gdp": 49828621355.6516
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TLS",
+   "name": "Doğu Timor",
+   "en": "Timor-Leste",
+   "aliases": [
+    "Timor-Leste",
+    "East Timor",
+    "TL",
+    "Democratic Republic of Timor-Leste"
+   ],
+   "values": {
+    "population": 1418517,
+    "area": 14870,
+    "gdp": 1902180257.82737
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TON",
+   "name": "Tonga",
+   "en": "Tonga",
+   "aliases": [
+    "to",
+    "TGA",
+    "Kingdom of Tonga",
+    "Tonga Islands",
+    "Friendly Islands"
+   ],
+   "values": {
+    "population": 103742,
+    "area": 750,
+    "gdp": 679218218.578017
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TTO",
+   "name": "Trinidad ve Tobago",
+   "en": "Trinidad and Tobago",
+   "aliases": [
+    "Trinidad and Tobago",
+    "Republic of Trinidad and Tobago",
+    "tt",
+    "Trinidad & Tobago"
+   ],
+   "values": {
+    "population": 1367764,
+    "area": 5130,
+    "gdp": 25942749718.4685
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TUN",
+   "name": "Tunus",
+   "en": "Tunisia",
+   "aliases": [
+    "Tunisia",
+    "tn",
+    "Republic of Tunisia",
+    "Tunisian Republic"
+   ],
+   "values": {
+    "population": 12348573,
+    "area": 163610,
+    "gdp": 57502836548.0878
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TUR",
+   "name": "Türkiye",
+   "en": "Turkey",
+   "aliases": [
+    "Turkey",
+    "Türkiye Cumhuriyeti",
+    "Republic of Turkey",
+    "Republic of Türkiye"
+   ],
+   "values": {
+    "population": 85878556,
+    "area": 785350,
+    "gdp": 1597293229287
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TUV",
+   "name": "Tuvalu",
+   "en": "Tuvalu",
+   "aliases": [
+    "tv",
+    "TUV",
+    "Ellice Islands"
+   ],
+   "values": {
+    "population": 9492,
+    "area": 30,
+    "gdp": 57345434.7234984
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "TZA",
+   "name": "Tanzanya",
+   "en": "Tanzania",
+   "aliases": [
+    "Tanzania",
+    "United Republic of Tanzania",
+    "Tanzania, United Republic of",
+    "tz",
+    "tza",
+    "United Republic of Tanganyika and Zanzibar"
+   ],
+   "values": {
+    "population": 70545865,
+    "area": 947300,
+    "gdp": 90143496090.4411
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "UGA",
+   "name": "Uganda",
+   "en": "Uganda",
+   "aliases": [
+    "+256",
+    "Ouganda",
+    "Pearl of Africa",
+    "Republic of Uganda",
+    "The Republic of Uganda",
+    "ug",
+    "Ugandah"
+   ],
+   "values": {
+    "population": 51384894,
+    "area": 241550,
+    "gdp": 61985829288.1496
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "UKR",
+   "name": "Ukrayna",
+   "en": "Ukraine",
+   "aliases": [
+    "Ukraine",
+    "Ukr.",
+    "Ukraïna",
+    "Ukrainia",
+    "Ukraina"
+   ],
+   "values": {
+    "population": 38980376,
+    "area": 603550,
+    "gdp": 214233312784.397
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "URY",
+   "name": "Uruguay",
+   "en": "Uruguay",
+   "aliases": [
+    "Uruguay Doğu Cumhuriyeti",
+    "uy",
+    "URU",
+    "Eastern Republic of Uruguay",
+    "Oriental Republic of Uruguay"
+   ],
+   "values": {
+    "population": 3384688,
+    "area": 176220,
+    "gdp": 85347696277.6859
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "USA",
+   "name": "Amerika Birleşik Devletleri",
+   "en": "United States",
+   "aliases": [
+    "United States",
+    "ABD",
+    "Amerika",
+    "Birleşik Devletler",
+    "B.D.",
+    "A.B.D.",
+    "BD",
+    "Murica",
+    "Merica",
+    "the United States",
+    "United States of America",
+    "the USA",
+    "the States",
+    "the U.S.",
+    "the U.S. of A",
+    "the U.S. of America",
+    "the U.S.A.",
+    "the United States of America",
+    "the US",
+    "the US of A",
+    "the US of America",
+    "U. S.",
+    "U. S. A.",
+    "U.S. of America",
+    "US of A",
+    "US of America"
+   ],
+   "values": {
+    "population": 341784857,
+    "area": 9831510,
+    "gdp": 30769700000000
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "UZB",
+   "name": "Özbekistan",
+   "en": "Uzbekistan",
+   "aliases": [
+    "Uzbekistan",
+    "Republic of Uzbekistan"
+   ],
+   "values": {
+    "population": 37053428,
+    "area": 448920,
+    "gdp": 147038081129.405
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "VAT",
+   "name": "Vatikan",
+   "en": "Vatican City",
+   "aliases": [
+    "Vatican City",
+    "Vatikan Şehir Devleti",
+    "Città del Vaticano",
+    "State of Vatican City",
+    "Stato della Città del Vaticano",
+    "Status Civitatis Vaticanae",
+    "Vatican City State",
+    "Vatican",
+    "The Vatican",
+    "Holy See",
+    "Papal State"
+   ],
+   "values": {
+    "population": 882.0,
+    "area": 0.49
+   },
+   "years": {
+    "population": "wikidata",
+    "area": "wikidata"
+   }
+  },
+  {
+   "id": "VCT",
+   "name": "Saint Vincent ve Grenadinler",
+   "en": "Saint Vincent and the Grenadines",
+   "aliases": [
+    "Saint Vincent and the Grenadines",
+    "St. Vincent",
+    "St Vincent",
+    "Saint Vincent",
+    "vc",
+    "St Vincent and the Grenadines",
+    "St. Vincent and the Grenadines",
+    "vct"
+   ],
+   "values": {
+    "population": 99924,
+    "area": 390,
+    "gdp": 1255222222.22222
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "VEN",
+   "name": "Venezuela",
+   "en": "Venezuela",
+   "aliases": [
+    "Bolivarcı Venezuela Cumhuriyeti",
+    "Republic of Venezuela",
+    "Bolivarian Republic of Venezuela",
+    "BR Venezuela"
+   ],
+   "values": {
+    "population": 28516896,
+    "area": 912050,
+    "gdp": 99661244155.6306
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "VNM",
+   "name": "Vietnam",
+   "en": "Vietnam",
+   "aliases": [
+    "Vietnam Sosyalist Cumhuriyeti",
+    "VNM",
+    "VN",
+    "Viet Nam",
+    "SRV",
+    "VIE",
+    "Socialist Republic of Viet Nam",
+    "Socialist Republic of Vietnam",
+    "Việt Nam"
+   ],
+   "values": {
+    "population": 101598527,
+    "area": 331338.31,
+    "gdp": 514697215165.065
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "VUT",
+   "name": "Vanuatu",
+   "en": "Vanuatu",
+   "aliases": [
+    "van",
+    "VAN",
+    "vu",
+    "Republic of Vanuatu",
+    "vut"
+   ],
+   "values": {
+    "population": 335169,
+    "area": 12190,
+    "gdp": 1353658840.63993
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "WSM",
+   "name": "Samoa",
+   "en": "Samoa",
+   "aliases": [
+    "ws",
+    "SAM",
+    "Western Samoa",
+    "Independent State of Samoa"
+   ],
+   "values": {
+    "population": 219306,
+    "area": 2840,
+    "gdp": 1287936621.64619
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "YEM",
+   "name": "Yemen",
+   "en": "Yemen",
+   "aliases": [
+    "Yemen Cumhuriyeti",
+    "Yemen Cum.",
+    "🇾🇪",
+    "ye",
+    "Rep. Yemen",
+    "Republic of Yemen"
+   ],
+   "values": {
+    "population": 41773878,
+    "area": 527970,
+    "gdp": 21606160663.0318
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2018"
+   }
+  },
+  {
+   "id": "ZAF",
+   "name": "Güney Afrika",
+   "en": "South Africa",
+   "aliases": [
+    "South Africa",
+    "Güney Afrika Cumhuriyeti",
+    "SA",
+    "RSA",
+    "R.S.A.",
+    "Republic of South Africa",
+    "zaf"
+   ],
+   "values": {
+    "population": 64747319,
+    "area": 1219090,
+    "gdp": 427184325997.307
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ZMB",
+   "name": "Zambiya",
+   "en": "Zambia",
+   "aliases": [
+    "Zambia",
+    "Zed",
+    "Republic of Zambia"
+   ],
+   "values": {
+    "population": 21913874,
+    "area": 752610,
+    "gdp": 28879806220.1264
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  },
+  {
+   "id": "ZWE",
+   "name": "Zimbabve",
+   "en": "Zimbabwe",
+   "aliases": [
+    "Zimbabwe",
+    "Zimbabi",
+    "Rhodesia",
+    "Southern Rhodesia",
+    "Zimbabwe Rhodesia",
+    "Republic of Zimbabwe"
+   ],
+   "values": {
+    "population": 16950795,
+    "area": 390760,
+    "gdp": 51215643905.5886
+   },
+   "years": {
+    "population": "2025",
+    "area": "2023",
+    "gdp": "2025"
+   }
+  }
+ ]
+}
