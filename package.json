@@ -1,0 +1,15 @@
+{
+  "name": "tahmin-oyunu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "İki oyunculu çevrim içi tahmin oyunu prototipi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node --version",
+    "test": "node --test prototype/tests/game.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

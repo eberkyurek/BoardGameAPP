@@ -4,10 +4,10 @@ Oyun akışını denemek için hazırlanmış, hesapsız çalışan prototip. Bu
 
 ## Çalıştırma
 
-Ek kurulum gerekmez; macOS ile gelen Python yeterli.
+Node.js 18 veya üstü gerekir; ek paket kurulmaz.
 
 ```sh
-python3 server.py
+node server.js
 ```
 
 Tarayıcıda `http://localhost:8000` adresini aç. İki oyunculu denemek için ikinci bir sekme veya gizli pencere kullan.
@@ -15,7 +15,7 @@ Tarayıcıda `http://localhost:8000` adresini aç. İki oyunculu denemek için i
 Aynı Wi-Fi ağındaki bir telefon veya başka bir bilgisayarla oynamak için:
 
 ```sh
-HOST=0.0.0.0 python3 server.py
+HOST=0.0.0.0 node server.js
 ```
 
 Sunucu açılırken diğer cihazların kullanacağı adresi yazar.
@@ -38,14 +38,14 @@ Hesap, kalıcı puan, derece, liderlik tablosu, İngilizce arayüz ve yönetim e
 
 | Dosya | İçerik |
 |---|---|
-| `server.py` | Web sunucusu, eşleşme, oda kodu, kayıtlar |
-| `game.py` | Maç akışı: süreler, kilitleme, uzatma, yazı tura |
-| `rules.py` | Soru üretimi, cevap değerlendirme, puanlama |
-| `names.py` | Ad eşleştirme ve yazım düzeltme |
+| `server.js` | Web sunucusu, eşleşme, oda kodu, kayıtlar |
+| `game.js` | Maç akışı: süreler, kilitleme, uzatma, yazı tura |
+| `rules.js` | Soru üretimi, cevap değerlendirme, puanlama |
+| `names.js` | Ad eşleştirme ve yazım düzeltme |
 | `static/` | Tarayıcı arayüzü |
 | `data/countries.json` | Ülke verisi |
 | `data/recordings.json` | Biten maçların kayıtları (oynadıkça oluşur) |
-| `tools/build_data.py` | Veriyi kaynaklardan yeniden üretir |
+| `tools/build_data.py` | Veriyi kaynaklardan yeniden üretir (Python betiği) |
 | `Dockerfile` | Canlı ortam için kapsayıcı tanımı |
 
 ## Veri
@@ -54,6 +54,8 @@ Hesap, kalıcı puan, derece, liderlik tablosu, İngilizce arayüz ve yönetim e
 
 ## Testler
 
+Depo kökünde:
+
 ```sh
-python3 -m unittest discover -s tests
+npm test
 ```

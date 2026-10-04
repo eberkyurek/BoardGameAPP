@@ -1,16 +1,15 @@
-# Ek bağımlılık yok: yalnızca Python standart kitaplığı kullanılır.
-FROM python:3.12-slim
+# Ek paket yok: yalnızca Node.js'in kendi modülleri kullanılır.
+FROM node:22-slim
 
 WORKDIR /app
 COPY . .
 
 # Sunucu maç kayıtlarını data/ klasörüne yazar; yetkisiz bir kullanıcıyla çalışır.
-RUN useradd --create-home app && chown -R app /app
-USER app
+RUN chown -R node /app
+USER node
 
-ENV HOST=0.0.0.0 \
-    PORT=8000 \
-    PYTHONUNBUFFERED=1
+ENV PORT=8000 \
+    NODE_ENV=production
 EXPOSE 8000
 
-CMD ["python", "server.py"]
+CMD ["node", "server.js"]

@@ -12,18 +12,33 @@ Proje planlama ve prototip aşamasındadır.
 
 ## Yerelde çalıştırma
 
-Ek kurulum gerekmez; Python 3.9 veya üstü yeterli.
+Node.js 18 veya üstü gerekir; ek paket kurulmaz.
 
 ```sh
-cd prototype
-python3 server.py
+npm start
 ```
 
 Ardından tarayıcıda `http://localhost:8000` adresini aç.
 
 ## Canlıya alma
 
-Prototip bir sunucu programıdır; GitHub Pages gibi yalnızca durağan dosya sunan hizmetlerde çalışmaz. Depo, GitHub'a bağlanıp sunucu çalıştırabilen hizmetler için hazırdır.
+Prototip bir Node.js sunucu programıdır; GitHub Pages gibi yalnızca durağan dosya sunan hizmetlerde veya "statik site" seçeneğiyle çalışmaz. Depo, GitHub'a bağlanıp Node.js uygulaması çalıştırabilen hizmetler için hazırdır.
+
+**Hostinger ile (Node.js uygulaması):**
+
+1. hPanel'de Node.js uygulaması eklerken GitHub'ı seç ve bu depoyu bağla.
+2. Ayarları şöyle onayla:
+
+   | Ayar | Değer |
+   |---|---|
+   | Framework preset | Other |
+   | Branch | `main` |
+   | Node.js version | 22 |
+   | Root directory | depo kökü (boş bırak veya `/`) |
+   | Build command | boş (gerekirse `build`) |
+   | Entry file | `server.js` |
+
+3. Kurulum bitince Hostinger'ın verdiği adres oyunun canlı adresidir.
 
 **Render ile (ücretsiz plan):**
 
@@ -34,7 +49,7 @@ Prototip bir sunucu programıdır; GitHub Pages gibi yalnızca durağan dosya su
 
 Bundan sonra `main` dalına gönderilen her değişiklik kendiliğinden yayına alınır.
 
-**Başka bir hizmette:** `prototype/Dockerfile` Railway, Fly.io ve Koyeb gibi Docker çalıştıran her hizmette kullanılabilir. Sunucu `PORT` ortam değişkenindeki kapıyı dinler.
+**Başka bir hizmette:** Node.js çalıştıran hizmetlerde `npm start` yeterlidir. `prototype/Dockerfile` ise Railway, Fly.io ve Koyeb gibi Docker çalıştıran hizmetlerde kullanılabilir. Sunucu `PORT` ortam değişkenindeki kapıyı dinler.
 
 ### Canlı ortamda bilinmesi gerekenler
 
